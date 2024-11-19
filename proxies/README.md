@@ -1,10 +1,12 @@
 # Free Proxy List
 
-![SOCKS5](https://img.shields.io/badge/SOCKS5-4398-red) ![SOCKS4](https://img.shields.io/badge/SOCKS4-6924-orange) ![HTTP](https://img.shields.io/badge/HTTP-31906-yellow) ![HTTPS](https://img.shields.io/badge/HTTPS-8704-green)
+![SOCKS5](https://img.shields.io/badge/SOCKS5-4396-red) ![SOCKS4](https://img.shields.io/badge/SOCKS4-6893-orange) ![HTTP](https://img.shields.io/badge/HTTP-31810-yellow) ![HTTPS](https://img.shields.io/badge/HTTPS-8704-green)
 
-![Total Proxies](https://img.shields.io/badge/Total-51932-blue)
+![Total Proxies](https://img.shields.io/badge/Total-51803-blue)
 
-- Our other account got suspended, so we are back again. Sorry for any inconvenience caused.
+### We are back again. We are sorry for any inconvenience caused.
+
+- Running on main server, backup server on standby.
 
 **Free Proxy List** is an automated tool designed to streamline the retrieval and management of SOCKS5, SOCKS4, HTTPS, and HTTP proxy lists. In an era where online privacy and data accessibility are paramount, having access to reliable proxies is essential for developers, businesses, and everyday users. This project is dedicated to fetching proxy data from a variety of trusted sources, ensuring that users always have access to up-to-date and functional proxies.
 
@@ -39,4 +41,4 @@ https://raw.githubusercontent.com/babyhagey74/free-proxies/refs/heads/main/proxi
 ```
 https://raw.githubusercontent.com/babyhagey74/free-proxies/refs/heads/main/proxies/socks5/socks5.txt
 ```
-Last updated at 11/19/2024, 11:02:32 AM GMT (UTC+0)
+Last updated at 11/19/2024, 11:08:41 AM GMT (UTC+0)
