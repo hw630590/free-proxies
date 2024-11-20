@@ -1,8 +1,8 @@
 # Free Proxy List
 
-![SOCKS5](https://img.shields.io/badge/SOCKS5-5763-red) ![SOCKS4](https://img.shields.io/badge/SOCKS4-8158-orange) ![HTTP](https://img.shields.io/badge/HTTP-114619-yellow) ![HTTPS](https://img.shields.io/badge/HTTPS-9966-green)
+![SOCKS5](https://img.shields.io/badge/SOCKS5-5768-red) ![SOCKS4](https://img.shields.io/badge/SOCKS4-8169-orange) ![HTTP](https://img.shields.io/badge/HTTP-114626-yellow) ![HTTPS](https://img.shields.io/badge/HTTPS-10069-green)
 
-![Total Proxies](https://img.shields.io/badge/Total-138506-blue)
+![Total Proxies](https://img.shields.io/badge/Total-138632-blue)
 
 ### We are back again. We are sorry for any inconvenience caused.
 
@@ -41,4 +41,4 @@ https://raw.githubusercontent.com/babyhagey74/free-proxies/refs/heads/main/proxi
 ```
 https://raw.githubusercontent.com/babyhagey74/free-proxies/refs/heads/main/proxies/socks5/socks5.txt
 ```
-Last updated at 11/20/2024, 2:36:37 PM GMT (UTC+0)
+Last updated at 11/20/2024, 2:41:38 PM GMT (UTC+0)
