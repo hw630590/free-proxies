@@ -1,8 +1,9 @@
 # Free Proxy List
 
-![SOCKS5](https://img.shields.io/badge/SOCKS5-17438-red) ![SOCKS4](https://img.shields.io/badge/SOCKS4-31025-orange) ![HTTP](https://img.shields.io/badge/HTTP-110938-yellow) ![HTTPS](https://img.shields.io/badge/HTTPS-9966-green)
+Last updated at **11/23/2024, 4:00:57 PM** GMT (UTC+0)
+![SOCKS5](https://img.shields.io/badge/SOCKS5-17455-red) ![SOCKS4](https://img.shields.io/badge/SOCKS4-31010-orange) ![HTTP](https://img.shields.io/badge/HTTP-110239-yellow) ![HTTPS](https://img.shields.io/badge/HTTPS-9812-green)
 
-![Total Proxies](https://img.shields.io/badge/Total-169367-blue)
+![Total Proxies](https://img.shields.io/badge/Total-168516-blue)
 
 ### We are back again. We are sorry for any inconvenience caused.
 
@@ -27,18 +28,17 @@ In a rush and don't know how to fetch them? No worries!
 
 ## **HTTP**
 ```
-https://raw.githubusercontent.com/babyhagey74/free-proxies/refs/heads/main/proxies/http/http.txt
+https://raw.githubusercontent.com/hw630590/free-proxies/refs/heads/main/proxies/http/http.txt
 ```
 ## **HTTPS**
 ```
-https://raw.githubusercontent.com/babyhagey74/free-proxies/refs/heads/main/proxies/https/https.txt
+https://raw.githubusercontent.com/hw630590/free-proxies/refs/heads/main/proxies/https/https.txt
 ```
 ## **SOCKS4**
 ```
-https://raw.githubusercontent.com/babyhagey74/free-proxies/refs/heads/main/proxies/socks4/socks4.txt
+https://raw.githubusercontent.com/hw630590/free-proxies/refs/heads/main/proxies/socks4/socks4.txt
 ```
 ## **SOCKS5**
 ```
-https://raw.githubusercontent.com/babyhagey74/free-proxies/refs/heads/main/proxies/socks5/socks5.txt
+https://raw.githubusercontent.com/hw630590/free-proxies/refs/heads/main/proxies/socks5/socks5.txt
 ```
-Last updated at 11/23/2024, 3:53:41 PM GMT (UTC+0)
