@@ -1,8 +1,8 @@
 # Free Proxy List
 
-![SOCKS5](https://img.shields.io/badge/SOCKS5-19760-red) ![SOCKS4](https://img.shields.io/badge/SOCKS4-33231-orange) ![HTTP](https://img.shields.io/badge/HTTP-111559-yellow) ![HTTPS](https://img.shields.io/badge/HTTPS-10017-green)
+![SOCKS5](https://img.shields.io/badge/SOCKS5-19754-red) ![SOCKS4](https://img.shields.io/badge/SOCKS4-33205-orange) ![HTTP](https://img.shields.io/badge/HTTP-111734-yellow) ![HTTPS](https://img.shields.io/badge/HTTPS-10042-green)
 
-![Total Proxies](https://img.shields.io/badge/Total-174567-blue)
+![Total Proxies](https://img.shields.io/badge/Total-174735-blue)
 
 ### We are back again. We are sorry for any inconvenience caused.
 
