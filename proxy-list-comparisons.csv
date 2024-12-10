@@ -2,4 +2,4 @@ Proxy List,Proxy Types Available,Comparisons
 proxyfly/free-proxy-list,"HTTP, SOCKS4, SOCKS5","We added HTTPS proxies, and there's less SOCKS5 and SOCKS4 proxies than ours."
 TheSpeedX/PROXY-List,"HTTP, SOCKS4, SOCKS5","We added HTTPS proxies, and it updates randomly over time."
 monosans/proxy-list,"HTTP, SOCKS4, SOCKS5","We added HTTPS proxies, and there are fewer HTTP proxies."
-hw630590/free-proxies,"HTTP/HTTPS, SOCKS4, SOCKS5","This is our proxy list, and we have over 10k proxies for each type."
+hw630590/free-proxies,"HTTP, HTTPS, SOCKS4, SOCKS5","This is our proxy list, and we have over 10k proxies for each type."
