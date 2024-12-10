@@ -1,5 +1,5 @@
-Proxy List,Proxy Types Available,Comparisons
-proxyfly/free-proxy-list,"HTTP, SOCKS4, SOCKS5","We added HTTPS proxies, and there's less SOCKS5 and SOCKS4 proxies than ours."
-TheSpeedX/PROXY-List,"HTTP, SOCKS4, SOCKS5","We added HTTPS proxies, and it updates randomly over time."
-monosans/proxy-list,"HTTP, SOCKS4, SOCKS5","We added HTTPS proxies, and there are fewer HTTP proxies."
-hw630590/free-proxies,"HTTP, HTTPS, SOCKS4, SOCKS5","This is our proxy list, and we have over 10k proxies for each type."
+Proxy List,Proxy Types Available,Comparisons, What They Could Do Better
+proxyfly/free-proxy-list,"HTTP, SOCKS4, SOCKS5","We added HTTPS proxies, and there's less SOCKS5 and SOCKS4 proxies than ours.", "You could add HTTPS proxies and add more proxies, but the country formatting is great so well done."
+TheSpeedX/PROXY-List,"HTTP, SOCKS4, SOCKS5","We added HTTPS proxies, and it updates randomly over time.", "Maybe update it a bit more but not too much, about 20 mins or so should be fine."
+monosans/proxy-list,"HTTP, SOCKS4, SOCKS5","We added HTTPS proxies, and there are fewer HTTP proxies.", I suggest adding more proxies like I said for proxifly.
+hw630590/free-proxies,"HTTP, HTTPS, SOCKS4, SOCKS5","This is our proxy list, and we have over 10k proxies for each type.", This is probably peak, but we get proxy lists from random places, so don't expect them to be very secure.
