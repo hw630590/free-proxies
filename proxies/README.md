@@ -1,8 +1,8 @@
 # Free Proxy List
 
-![SOCKS5](https://img.shields.io/badge/SOCKS5-20272-red) ![SOCKS4](https://img.shields.io/badge/SOCKS4-36399-orange) ![HTTP](https://img.shields.io/badge/HTTP-122789-yellow) ![HTTPS](https://img.shields.io/badge/HTTPS-12288-green)
+![SOCKS5](https://img.shields.io/badge/SOCKS5-20092-red) ![SOCKS4](https://img.shields.io/badge/SOCKS4-36221-orange) ![HTTP](https://img.shields.io/badge/HTTP-123642-yellow) ![HTTPS](https://img.shields.io/badge/HTTPS-12631-green)
 
-![Total Proxies](https://img.shields.io/badge/Total-191748-blue)
+![Total Proxies](https://img.shields.io/badge/Total-192586-blue)
 
 ### We are back again. We are sorry for any inconvenience caused.
 
@@ -12,7 +12,7 @@
 
 ### Key Features
 
-- **Automated Updates**: The **Free Proxy List** system automatically updates the proxy lists every 5 minutes. This feature eliminates the need for manual intervention, allowing users to focus on their projects without worrying about the reliability of their proxies. The frequent updates ensure that users can access fresh and effective proxies, enhancing their online activities.
+- **Automated Updates**: The **Free Proxy List** system automatically updates the proxy lists every 15 minutes. This feature eliminates the need for manual intervention, allowing users to focus on their projects without worrying about the reliability of their proxies. The frequent updates ensure that users can access fresh and effective proxies, enhancing their online activities.
 
 - **Diverse Proxy Sources**: To maximize the reliability and variety of proxies, **Free Proxy List** fetches data from multiple trusted providers. By aggregating proxy information from various sources, the tool ensures that users benefit from a wide selection of SOCKS5, SOCKS4, HTTPS, and HTTP proxies, suitable for different applications, such as web scraping, data mining, and maintaining anonymity online.
 
