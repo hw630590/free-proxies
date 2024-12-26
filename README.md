@@ -1,5 +1,6 @@
 # Free Proxy List
 - We are currently experiencing lag issues. The proxy list may not update sometimes while the datacenter fixes this issue.
+
 **Free Proxy List** is an automated tool designed to streamline the retrieval and management of SOCKS5, SOCKS4, HTTPS, and HTTP proxy lists. In an era where online privacy and data accessibility are paramount, having access to reliable proxies is essential for developers, businesses, and everyday users. This project is dedicated to fetching proxy data from a variety of trusted sources, ensuring that users always have access to up-to-date and functional proxies.
 
 ### Key Features
