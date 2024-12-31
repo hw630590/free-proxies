@@ -1,3 +1,4 @@
+91.238.114.242:21080
 203.144.144.146:8080
 200.174.198.86:8888
 20.206.106.192:8123
@@ -17101,6 +17102,7 @@ error code: 101578.135.105.217:50504
 118.67.223.4:5678
 36.110.131.103:80
 197.248.231.91:8080
+91.238.114.242:21080
 203.144.144.146:8080
 200.174.198.86:8888
 20.206.106.192:8123
@@ -20247,7 +20249,7 @@ error code: 101578.135.105.217:50504
 </head>
 <body>
 <div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiNzY1ZjlmZjMtZmJiMy00NGEwLThhMDAtMzgyYThjMGQ4Y2FiIiwicGFnZV90aW1lIjoxNzM1NjQ1MTAyLCJwYWdlX3VybCI6Imh0dHBzOi8vd3d3LnByb3h5c2Nhbi5pby9kb3dubG9hZD90eXBlPXNvY2tzNSIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7InR5cGUiOiJzb2NrczUifSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6Ind3dy5wcm94eXNjYW4uaW8iLCJpcCI6IjM3LjI3LjE2OS4yMDcifQo=";</script>
-<script src="/buvWkxjiY.js"></script>
+<script>window.park = "eyJ1dWlkIjoiN2I5YzA1N2EtMWY0Mi00NWY5LWEyYTItNTBkOTAzMzlkZDcxIiwicGFnZV90aW1lIjoxNzM1NjQ2MDAzLCJwYWdlX3VybCI6Imh0dHBzOi8vd3d3LnByb3h5c2Nhbi5pby9kb3dubG9hZD90eXBlPXNvY2tzNSIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7InR5cGUiOiJzb2NrczUifSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6Ind3dy5wcm94eXNjYW4uaW8iLCJpcCI6IjM3LjI3LjE2OS4yMDcifQo=";</script>
+<script src="/bKqgJvyzj.js"></script>
 </body>
 </html>
